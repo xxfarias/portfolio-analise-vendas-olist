@@ -12,7 +12,7 @@ A análise foca em entender a performance de vendas e logística, o comportament
 
 Para uma experiência interativa e guiada pelos principais insights, assista a esta curta demonstração em vídeo do dashboard.
 
-**[➡️ Assista à Demonstração do Dashboard no YouTube]([(https://youtu.be/yZYs9PZSdYE)])**
+**[➡️ Assista à Demonstração do Dashboard no YouTube](https://youtu.be/yZYs9PZSdYE)**
 
 ---
 

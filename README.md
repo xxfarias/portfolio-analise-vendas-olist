@@ -32,7 +32,7 @@ Para uma experiência interativa e guiada pelos principais insights, assista a e
 * **`analise_olist_completa.ipynb`:** O notebook do Colab contendo todo o processo de análise em Python, desde a exploração inicial até a segmentação RFM final.
 * **`olist_dados_processados.csv`:** O arquivo de dados principal, já limpo e processado, utilizado pelo notebook para garantir a reprodutibilidade da análise.
 * **`dados_rfm_clientes.csv`:** Um arquivo de dados secundário, exportado após a análise RFM, que é utilizado na segunda página do dashboard.
-* **`/imagens` (pasta opcional):** Contém as imagens dos gráficos gerados no Python, utilizadas nesta documentação.
+* **`/imagens`:** Contém as imagens dos gráficos gerados no Python, utilizadas nesta documentação.
 
 ---
 
@@ -68,6 +68,8 @@ Os dados processados e enriquecidos foram levados ao Power BI para a criação d
 1.  **O Negócio é Sazonal e Geograficamente Dependente:** A análise confirmou a importância da Black Friday (Novembro) para o faturamento e a dominância do Sudeste. Recomenda-se uma **estratégia de marketing e logística dupla**: foco em **frequência** no Sudeste e em aumentar o **valor do carrinho** nas demais regiões.
 
 2.  **O Maior Desafio é a Retenção de Clientes:** A análise RFM provou que o modelo de negócio é altamente eficaz na aquisição, mas ineficaz na fidelização. Recomenda-se a implementação de um **plano de ação de marketing focado em incentivar a segunda compra** dos "Novos Clientes", que representam quase 50% da base.
+
+![Distribuição de Clientes por Segmento RFM](imagens/barras_segmentos_rfm.png)
 
 ---
 
